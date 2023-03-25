@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\phili\\OneDrive - Deakin University\\2022 TRI-2\\SIT771 - Programming\\Code\\Asteroids\\Asteroids.csproj",
+      "projectUniqueName": "C:\\Users\\phili\\OneDrive - Deakin University\\2023 TRI-1\\SIT764 - Project A\\Projects\\Asteroids1.0-Desktop\\Asteroids.csproj",
       "projectName": "Asteroids",
-      "projectPath": "C:\\Users\\phili\\OneDrive - Deakin University\\2022 TRI-2\\SIT771 - Programming\\Code\\Asteroids\\Asteroids.csproj",
+      "projectPath": "C:\\Users\\phili\\OneDrive - Deakin University\\2023 TRI-1\\SIT764 - Project A\\Projects\\Asteroids1.0-Desktop\\Asteroids.csproj",
       "packagesPath": "C:\\Users\\phili\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\phili\\OneDrive - Deakin University\\2022 TRI-2\\SIT771 - Programming\\Code\\Asteroids\\obj\\",
+      "outputPath": "C:\\Users\\phili\\OneDrive - Deakin University\\2023 TRI-1\\SIT764 - Project A\\Projects\\Asteroids1.0-Desktop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\phili\\AppData\\Roaming\\NuGet\\NuGet.Config"

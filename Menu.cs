@@ -276,7 +276,7 @@ public class Menu
             }
 
         }
-        else if (SplashKit.KeyTyped(KeyCode.EscapeKey))
+        else if (SplashKit.KeyTyped(KeyCode.EscapeKey)) // New key needed to back out of ship selection
         {
             ReSetup();
         }
@@ -313,7 +313,7 @@ public class Menu
 
             GameStarted = true;
         }
-        else if (SplashKit.KeyTyped(KeyCode.EscapeKey))
+        else if (SplashKit.KeyTyped(KeyCode.EscapeKey)) // New key needed to back out of ship selection
         {
             ReSetup();
         }
