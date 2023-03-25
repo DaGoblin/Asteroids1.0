@@ -1,36 +1,36 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net7.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\phili\\.nuget\\packages\\": {}
+    "/Users/philipwilliams/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\phili\\OneDrive - Deakin University\\2022 TRI-2\\SIT771 - Programming\\Code\\Asteroids\\Asteroids.csproj",
+      "projectUniqueName": "/Users/philipwilliams/Library/CloudStorage/OneDrive-DeakinUniversity/2023 TRI-1/SIT764 - Project A/Projects/Asteroids1.0-Laptop/Asteroids.csproj",
       "projectName": "Asteroids",
-      "projectPath": "C:\\Users\\phili\\OneDrive - Deakin University\\2022 TRI-2\\SIT771 - Programming\\Code\\Asteroids\\Asteroids.csproj",
-      "packagesPath": "C:\\Users\\phili\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\phili\\OneDrive - Deakin University\\2022 TRI-2\\SIT771 - Programming\\Code\\Asteroids\\obj\\",
+      "projectPath": "/Users/philipwilliams/Library/CloudStorage/OneDrive-DeakinUniversity/2023 TRI-1/SIT764 - Project A/Projects/Asteroids1.0-Laptop/Asteroids.csproj",
+      "packagesPath": "/Users/philipwilliams/.nuget/packages/",
+      "outputPath": "/Users/philipwilliams/Library/CloudStorage/OneDrive-DeakinUniversity/2023 TRI-1/SIT764 - Project A/Projects/Asteroids1.0-Laptop/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\phili\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/philipwilliams/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp6.0"
+        "netcoreapp7.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "netcoreapp6.0",
+        "net7.0": {
+          "targetAlias": "netcoreapp7.0",
           "projectReferences": {}
         }
       },
@@ -41,15 +41,16 @@
       }
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "netcoreapp6.0",
+      "net7.0": {
+        "targetAlias": "netcoreapp7.0",
         "imports": [
           "net461",
           "net462",
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -58,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
       }
     }
   }

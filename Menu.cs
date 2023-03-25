@@ -29,7 +29,7 @@ public class Menu
     {
         _gameWindow = gameWindow;
         GameStarted = false;
-        _GameFont = new Font("pricedown_bl", "fonts/pricedown_bl.otf");
+        _GameFont = new Font("pricedown_bl", "pricedown_bl.otf");
         _MainMenuOption = 1;
         _Menu = MenuOption.MainMenu;
         _ShipSelection = 1;
@@ -50,10 +50,10 @@ public class Menu
             _Ship2.Free();
             _Ship3.Free();
             _Ship4.Free();
-            _Ship1 = SplashKit.LoadBitmap("Ship1", "images/BlueShip.png");
-            _Ship2 = SplashKit.LoadBitmap("Ship2", "images/SpaceShip.png");
-            _Ship3 = SplashKit.LoadBitmap("Ship3", "images/RedShip.png");
-            _Ship4 = SplashKit.LoadBitmap("Ship4", "images/FighterShip.png");
+            _Ship1 = SplashKit.LoadBitmap("Ship1", "BlueShip.png");
+            _Ship2 = SplashKit.LoadBitmap("Ship2", "SpaceShip.png");
+            _Ship3 = SplashKit.LoadBitmap("Ship3", "RedShip.png");
+            _Ship4 = SplashKit.LoadBitmap("Ship4", "FighterShip.png");
     }
 
     public void DrawMenu()

@@ -27,7 +27,7 @@ public abstract class Score
             _LivesBitmap.Add(new Bitmap($"Lives {i}", "images/heart.png"));          
         } */
         _ScoreTimer = new Timer($"{player} Timer");
-        _LivesBitmap = new Bitmap($"Lives", "images/heart.png");        
+        _LivesBitmap = new Bitmap($"Lives", "heart.png");        
         _GameWindow = gameWindow;
         _ScoreTimer.Start();
         IsDead = false;
@@ -91,7 +91,7 @@ public class Player1Score: Score
         
         if (IsDead)
         {
-            SplashKit.DrawTextOnWindow(_GameWindow,"Game Over", Color.White, "fonts/pricedown_bl.otf", 40, 0, 0);
+            SplashKit.DrawTextOnWindow(_GameWindow,"Game Over", Color.White, "pricedown_bl.otf", 40, 0, 0);
 
         }
         else
@@ -102,7 +102,7 @@ public class Player1Score: Score
             }
         }
         
-        SplashKit.DrawTextOnWindow(_GameWindow, Scoretmp.ToString("D6"), Color.White, "fonts/pricedown_bl.otf", 40, ScoreOffsetX, 0 + ScoreOffsetY);
+        SplashKit.DrawTextOnWindow(_GameWindow, Scoretmp.ToString("D6"), Color.White, "pricedown_bl.otf", 40, ScoreOffsetX, 0 + ScoreOffsetY);
 
 
     }
@@ -126,7 +126,7 @@ public class Player2Score: Score
 
         if (IsDead)
         {
-            SplashKit.DrawTextOnWindow(_GameWindow,"Game Over", Color.White, "fonts/pricedown_bl.otf", 40, _GameWindow.Width-190, 0);
+            SplashKit.DrawTextOnWindow(_GameWindow,"Game Over", Color.White, "pricedown_bl.otf", 40, _GameWindow.Width-190, 0);
         }
         else
         {
@@ -137,7 +137,7 @@ public class Player2Score: Score
             }
             
         }
-        SplashKit.DrawTextOnWindow(_GameWindow, Scoretmp.ToString("D6"), Color.White, "fonts/pricedown_bl.otf", 40, _GameWindow.Width - ScoreOffsetX, 0 + ScoreOffsetY);
+        SplashKit.DrawTextOnWindow(_GameWindow, Scoretmp.ToString("D6"), Color.White, "pricedown_bl.otf", 40, _GameWindow.Width - ScoreOffsetX, 0 + ScoreOffsetY);
     }
 
 }

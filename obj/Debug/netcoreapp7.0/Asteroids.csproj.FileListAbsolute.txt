@@ -1,0 +1,15 @@
+/Users/philipwilliams/Library/CloudStorage/OneDrive-DeakinUniversity/2023 TRI-1/SIT764 - Project A/Projects/Asteroids1.0-Laptop/bin/Debug/netcoreapp7.0/Asteroids
+/Users/philipwilliams/Library/CloudStorage/OneDrive-DeakinUniversity/2023 TRI-1/SIT764 - Project A/Projects/Asteroids1.0-Laptop/bin/Debug/netcoreapp7.0/Asteroids.deps.json
+/Users/philipwilliams/Library/CloudStorage/OneDrive-DeakinUniversity/2023 TRI-1/SIT764 - Project A/Projects/Asteroids1.0-Laptop/bin/Debug/netcoreapp7.0/Asteroids.runtimeconfig.json
+/Users/philipwilliams/Library/CloudStorage/OneDrive-DeakinUniversity/2023 TRI-1/SIT764 - Project A/Projects/Asteroids1.0-Laptop/bin/Debug/netcoreapp7.0/Asteroids.dll
+/Users/philipwilliams/Library/CloudStorage/OneDrive-DeakinUniversity/2023 TRI-1/SIT764 - Project A/Projects/Asteroids1.0-Laptop/bin/Debug/netcoreapp7.0/Asteroids.pdb
+/Users/philipwilliams/Library/CloudStorage/OneDrive-DeakinUniversity/2023 TRI-1/SIT764 - Project A/Projects/Asteroids1.0-Laptop/obj/Debug/netcoreapp7.0/Asteroids.csproj.AssemblyReference.cache
+/Users/philipwilliams/Library/CloudStorage/OneDrive-DeakinUniversity/2023 TRI-1/SIT764 - Project A/Projects/Asteroids1.0-Laptop/obj/Debug/netcoreapp7.0/Asteroids.GeneratedMSBuildEditorConfig.editorconfig
+/Users/philipwilliams/Library/CloudStorage/OneDrive-DeakinUniversity/2023 TRI-1/SIT764 - Project A/Projects/Asteroids1.0-Laptop/obj/Debug/netcoreapp7.0/Asteroids.AssemblyInfoInputs.cache
+/Users/philipwilliams/Library/CloudStorage/OneDrive-DeakinUniversity/2023 TRI-1/SIT764 - Project A/Projects/Asteroids1.0-Laptop/obj/Debug/netcoreapp7.0/Asteroids.AssemblyInfo.cs
+/Users/philipwilliams/Library/CloudStorage/OneDrive-DeakinUniversity/2023 TRI-1/SIT764 - Project A/Projects/Asteroids1.0-Laptop/obj/Debug/netcoreapp7.0/Asteroids.csproj.CoreCompileInputs.cache
+/Users/philipwilliams/Library/CloudStorage/OneDrive-DeakinUniversity/2023 TRI-1/SIT764 - Project A/Projects/Asteroids1.0-Laptop/obj/Debug/netcoreapp7.0/Asteroids.dll
+/Users/philipwilliams/Library/CloudStorage/OneDrive-DeakinUniversity/2023 TRI-1/SIT764 - Project A/Projects/Asteroids1.0-Laptop/obj/Debug/netcoreapp7.0/refint/Asteroids.dll
+/Users/philipwilliams/Library/CloudStorage/OneDrive-DeakinUniversity/2023 TRI-1/SIT764 - Project A/Projects/Asteroids1.0-Laptop/obj/Debug/netcoreapp7.0/Asteroids.pdb
+/Users/philipwilliams/Library/CloudStorage/OneDrive-DeakinUniversity/2023 TRI-1/SIT764 - Project A/Projects/Asteroids1.0-Laptop/obj/Debug/netcoreapp7.0/Asteroids.genruntimeconfig.cache
+/Users/philipwilliams/Library/CloudStorage/OneDrive-DeakinUniversity/2023 TRI-1/SIT764 - Project A/Projects/Asteroids1.0-Laptop/obj/Debug/netcoreapp7.0/ref/Asteroids.dll
